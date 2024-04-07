@@ -1,0 +1,37 @@
+.Logo_logo_white__zowGB {
+    width: 100px;
+    height: 80px
+}
+
+@media screen and (min-width: 768px) {
+    .Logo_logo_white__zowGB {
+        width:120px;
+        height: 90px
+    }
+}
+
+.Blog_header__g14U8 {
+    background: linear-gradient(65deg,#000 45%,#068e82 80%,#fff597 105%)
+}
+
+.Blog_full-height__knBAK {
+    min-height: calc(100vh - 64px)
+}
+
+@media screen and (min-width: 640px) {
+    .Blog_header__g14U8 {
+        background-position:80%
+    }
+}
+
+.Blog_blank__zpw0p {
+    height: calc(100vh - (80px))
+}
+
+.Blog_blank-mobile__GY4Fr {
+    height: 100vh
+}
+
+.Blog_blank-mobile__GY4Fr h4,.Blog_blank__zpw0p h4 {
+    margin-top: 24px
+}
